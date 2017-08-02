@@ -1,0 +1,13 @@
+{
+    "name": "adobesun/hello-composer",
+    "description": "it is just a test.",
+    "type": "git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AdobeSun",
+            "email": "spf_roc@163.com"
+        }
+    ],
+    "require": {}
+}
