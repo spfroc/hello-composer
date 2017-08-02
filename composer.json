@@ -9,5 +9,9 @@
             "email": "spf_roc@163.com"
         }
     ],
+
+    "autoload": {
+        "psr-4": { "AdobeSun\\Demo\\": "src" }
+    },
     "require": {}
 }
